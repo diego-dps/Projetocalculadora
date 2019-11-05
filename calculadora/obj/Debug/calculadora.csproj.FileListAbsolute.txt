@@ -1,0 +1,36 @@
+E:\calculadora2\calculadora\calculadora\bin\Debug\calculadora.exe.config
+E:\calculadora2\calculadora\calculadora\bin\Debug\calculadora.exe
+E:\calculadora2\calculadora\calculadora\bin\Debug\calculadora.pdb
+E:\calculadora2\calculadora\calculadora\obj\Debug\calculadora.csprojResolveAssemblyReference.cache
+E:\calculadora2\calculadora\calculadora\obj\Debug\calculadora.Form1.resources
+E:\calculadora2\calculadora\calculadora\obj\Debug\calculadora.Properties.Resources.resources
+E:\calculadora2\calculadora\calculadora\obj\Debug\calculadora.csproj.GenerateResource.Cache
+E:\calculadora2\calculadora\calculadora\obj\Debug\calculadora.exe
+E:\calculadora2\calculadora\calculadora\obj\Debug\calculadora.pdb
+F:\calculadora2\calculadora\calculadora\bin\Debug\calculadora.exe.config
+F:\calculadora2\calculadora\calculadora\obj\Debug\calculadora.exe
+F:\calculadora2\calculadora\calculadora\obj\Debug\calculadora.pdb
+F:\calculadora2\calculadora\calculadora\bin\Debug\calculadora.exe
+F:\calculadora2\calculadora\calculadora\bin\Debug\calculadora.pdb
+F:\calculadora2\calculadora\calculadora\obj\Debug\calculadora.csprojResolveAssemblyReference.cache
+F:\calculadora2\calculadora\calculadora\obj\Debug\calculadora.Form1.resources
+F:\calculadora2\calculadora\calculadora\obj\Debug\calculadora.Properties.Resources.resources
+F:\calculadora2\calculadora\calculadora\obj\Debug\calculadora.csproj.GenerateResource.Cache
+C:\Users\diego\Desktop\Projetos em c#\cauculadora-master\calculadora\calculadora\bin\Debug\calculadora.exe.config
+C:\Users\diego\Desktop\Projetos em c#\cauculadora-master\calculadora\calculadora\bin\Debug\calculadora.exe
+C:\Users\diego\Desktop\Projetos em c#\cauculadora-master\calculadora\calculadora\bin\Debug\calculadora.pdb
+C:\Users\diego\Desktop\Projetos em c#\cauculadora-master\calculadora\calculadora\obj\Debug\calculadora.csprojAssemblyReference.cache
+C:\Users\diego\Desktop\Projetos em c#\cauculadora-master\calculadora\calculadora\obj\Debug\calculadora.Form1.resources
+C:\Users\diego\Desktop\Projetos em c#\cauculadora-master\calculadora\calculadora\obj\Debug\calculadora.Properties.Resources.resources
+C:\Users\diego\Desktop\Projetos em c#\cauculadora-master\calculadora\calculadora\obj\Debug\calculadora.csproj.GenerateResource.cache
+C:\Users\diego\Desktop\Projetos em c#\cauculadora-master\calculadora\calculadora\obj\Debug\calculadora.exe
+C:\Users\diego\Desktop\Projetos em c#\cauculadora-master\calculadora\calculadora\obj\Debug\calculadora.pdb
+C:\Users\diego\Desktop\Projetos em c#\cauculadora-master\cauculadora-master\calculadora\calculadora\bin\Debug\calculadora.exe.config
+C:\Users\diego\Desktop\Projetos em c#\cauculadora-master\cauculadora-master\calculadora\calculadora\bin\Debug\calculadora.exe
+C:\Users\diego\Desktop\Projetos em c#\cauculadora-master\cauculadora-master\calculadora\calculadora\bin\Debug\calculadora.pdb
+C:\Users\diego\Desktop\Projetos em c#\cauculadora-master\cauculadora-master\calculadora\calculadora\obj\Debug\calculadora.csprojAssemblyReference.cache
+C:\Users\diego\Desktop\Projetos em c#\cauculadora-master\cauculadora-master\calculadora\calculadora\obj\Debug\calculadora.Form1.resources
+C:\Users\diego\Desktop\Projetos em c#\cauculadora-master\cauculadora-master\calculadora\calculadora\obj\Debug\calculadora.Properties.Resources.resources
+C:\Users\diego\Desktop\Projetos em c#\cauculadora-master\cauculadora-master\calculadora\calculadora\obj\Debug\calculadora.csproj.GenerateResource.cache
+C:\Users\diego\Desktop\Projetos em c#\cauculadora-master\cauculadora-master\calculadora\calculadora\obj\Debug\calculadora.exe
+C:\Users\diego\Desktop\Projetos em c#\cauculadora-master\cauculadora-master\calculadora\calculadora\obj\Debug\calculadora.pdb
